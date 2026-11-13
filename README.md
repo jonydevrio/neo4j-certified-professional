@@ -9,7 +9,7 @@ Este repositório é o Desafio de Projeto que fecha o Bootcamp [Neo4j Certified 
 
 ## Certificações DIO Neo4J
 
-- **Nome:** Boas vindas ao Bootcamp Neo4j Certified Professional
-- **Nome:** Introdução a Graph Database e Neo4j
-- **Nome:** Configurando o Ambiente Neo4j: Aura, Desktop e Docker
-- **Nome:** Visualização de Dados no Neo4j: Plugins, Bloom e Dashboards
+- Boas vindas ao Bootcamp Neo4j Certified Professional
+- Introdução a Graph Database e Neo4j
+- Configurando o Ambiente Neo4j: Aura, Desktop e Docker
+- Visualização de Dados no Neo4j: Plugins, Bloom e Dashboards
