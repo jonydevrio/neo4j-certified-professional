@@ -10,6 +10,8 @@ Este repositório é o Desafio de Projeto que fecha o Bootcamp [Neo4j Certified 
 - **Certificado:** [graphacademy.neo4j.com/c/7679b9b9](https://graphacademy.neo4j.com/c/7679b9b9-9085-4019-86ba-8f535ae79a88)
 - **Nome:** Neo4j & Generative AI Certification
 - **Certificado:** [graphacademy.neo4j.com/c/f3ea2569](https://graphacademy.neo4j.com/c/f3ea2569-555c-484c-853a-0c96897662f4)
+- **Nome:** Cypher Fundamentals
+- **Certificado:** [graphacademy.neo4j.com/c/6c12e938](https://graphacademy.neo4j.com/c/6c12e938-6551-4d1c-b37f-7363484fd782)
 
 ## Certificações DIO Neo4J
 
