@@ -6,6 +6,8 @@ Este repositório é o Desafio de Projeto que fecha o Bootcamp [Neo4j Certified 
 
 - **Nome:** Neo4j & GenerativeAI Fundamentals
 - **Certificado:** [graphacademy.neo4j.com/c/c528b91d](https://graphacademy.neo4j.com/c/c528b91d-b9b8-4bfc-b8d8-82106252c0b1)
+- **Nome:** Building Agents in Neo4j Aura
+- **Certificado:** [graphacademy.neo4j.com/c/7679b9b9](https://graphacademy.neo4j.com/c/7679b9b9-9085-4019-86ba-8f535ae79a88)
 
 ## Certificações DIO Neo4J
 
